@@ -1,0 +1,26 @@
+{
+  "name": "websocket-exploration",
+  "version": "1.0.0",
+  "description": "A repo to explore websockets in-depth.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://leanrob@github.com/leanrob/websocket-exploration.git"
+  },
+  "keywords": [
+    "websockets",
+    "node"
+  ],
+  "author": "Rob Byrne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leanrob/websocket-exploration/issues"
+  },
+  "homepage": "https://github.com/leanrob/websocket-exploration#readme",
+  "dependencies": {
+    "ws": "^7.4.6"
+  }
+}
